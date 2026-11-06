@@ -1,1 +1,1 @@
-aaaaaaaaaaa
+console.log ("aaaaaaaaa")

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HmmmYuki/serveurweb/issues"
   },
-  "homepage": "https://github.com/HmmmYuki/serveurweb#readme"
+  "homepage": "https://github.com/HmmmYuki/serveurweb#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
 }

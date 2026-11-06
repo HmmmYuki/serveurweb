@@ -1,0 +1,19 @@
+{
+  "name": "serveurweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HmmmYuki/serveurweb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HmmmYuki/serveurweb/issues"
+  },
+  "homepage": "https://github.com/HmmmYuki/serveurweb#readme"
+}
